@@ -82,10 +82,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XQuestCode&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="XQuestCode" /></p>
 
 <p align="center">
-<a href="https://www.instagram.com/geeky_aadi/">
-    <img src="https://i.imgur.com/TAeUEyJ.png" alt="Instagram" width="100"/>
+<a href="https://www.instagram.com/geeky_aadi/"> <button>
+    <img src="https://i.imgur.com/TAeUEyJ.png" alt="Instagram" width="100"/> </button>
   </a>
-<a href="https://www.youtube.com/channel/UCQdiX8psFfls2wbwtOdhKLw">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube" width="80"/>
+<a href="https://www.youtube.com/channel/UCQdiX8psFfls2wbwtOdhKLw"> <button>
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube" width="80"/> </button>
+  </a>
+    <a href="https://dsc.gg/primogem"> <button>
+        <img src="https://i.imgur.com/H62seUA.png" alt="Discord" width="80"/> </button>
   </a>
 </p>
