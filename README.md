@@ -35,14 +35,14 @@ alt="XQuestCode" />
 <img align="left" alt="nodejs" width="26px" src="https://i.imgur.com/lPPZ3AO.png" />
 <img align="left" alt="discordjs" width="26px" src="https://i.imgur.com/rccpTOp.png" />
 <img align="left" alt="opencv" width="26px"  src="https://i.imgur.com/cgMOqRS.png">
-<img align="left" alt="splashkit" width="26px"  src="https://i.imgur.com/WnoKlPc.png">
+<img align="left" alt="splashkit" width="26px"  src="https://i.imgur.com/WnoKlPc.png"><br />
 
 </span>
 
 <h4> Databases </h4>
 <span>
   <img align="left" alt="mysql" width="26px" src="https://i.imgur.com/sG9on5P.png">
-   <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+   <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> <br />
 </span>
 
 <h4> IDE </h4>
@@ -50,7 +50,7 @@ alt="XQuestCode" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/SepzwEU.png" />
 <img align="left" alt="Repl.it" width="26px" src="https://i.imgur.com/3DqvI5F.png" />
-<img align="left" alt="Glitch" width="26px" src="https://i.imgur.com/96ku0wz.png" />
+<img align="left" alt="Glitch" width="26px" src="https://i.imgur.com/96ku0wz.png" /><br />
 </span> 
 
 
@@ -60,14 +60,14 @@ alt="XQuestCode" />
 <img align="left" alt="heroku" width="26px" src="https://i.imgur.com/v9IRHGV.png" />
 <img align="left" alt="gcloud" width="26px"  src="https://i.imgur.com/qHpvfwl.png">
 <img align="left" alt="spotify" width="26px"  src="https://i.imgur.com/k2g1mS2.png">
-<img align="left" alt="mediapipe" width="26px"  src="https://i.imgur.com/4qqDxKA.png">
+<img align="left" alt="mediapipe" width="26px"  src="https://i.imgur.com/4qqDxKA.png"><br />
 </span>
 
 <h4> Games and fun </h4>
 <span>
 <img align="left" alt="valorant" width="26px" src="https://i.imgur.com/GFLGhGT.png" />
 <img align="left" alt="pubg" width="26px"  src="https://i.imgur.com/3RoZXse.jpg">
-<img align="left" alt="photoshop" width="26px"  src="https://i.imgur.com/YGoGk2U.png">
+<img align="left" alt="photoshop" width="26px"  src="https://i.imgur.com/YGoGk2U.png"><br />
 
 </span>
     
