@@ -31,7 +31,7 @@ alt="XQuestCode" />
 <h4> Frameworks </h4>
 <span>
 
-<img align="left" alt="npm" width="26px" src="https://i.imgur.com/Zt8IlvG.png" />
+<img align="left" alt="npm" width="26px" src="https://i.imgur.com/1v1hUT4.png" />
 <img align="left" alt="nodejs" width="26px" src="https://i.imgur.com/lPPZ3AO.png" />
 <img align="left" alt="discordjs" width="26px" src="https://i.imgur.com/rccpTOp.png" />
 <img align="left" alt="opencv" width="26px"  src="https://i.imgur.com/cgMOqRS.png">
