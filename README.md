@@ -9,8 +9,8 @@
 - 🥅 2022 Goals: To be profficient in Object Oriented Programming :| <br>
 - ⚡ Fun fact: I love playing football, playing video games. <br>
 
-<h5>
-## Skills </h5>
+<h2>
+## Skills </h2>
 
 <h4> Languages </h4>
 <span> 
