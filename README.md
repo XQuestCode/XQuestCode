@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on Web Development Related Projects ** <br>
 - 🥅 2022 Goals: To be profficient in Object Oriented Programming :| <br>
 - ⚡ Fun fact: I love playing football, playing video games. <br>
-- Contact me <a href="xquestcodes@gmail.com">
-    <img src="https://i.imgur.com/5b0bAC4.png" alt="Gmail" width="80"/>
+- Contact me <a href="xquestcodes@gmail.com"> <button>
+    <img src="https://i.imgur.com/5b0bAC4.png" alt="Gmail" width="30"/> </button>
   </a>
 
 <h2>
