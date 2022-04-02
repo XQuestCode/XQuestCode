@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
 
 <br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=XQuestCode&label=Profile%20views&color=0e75b6&style=flat"
-alt="XQuestCode" /> 
-</p>
 
-<br>
-
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning ** ReactJS, C# and MongoDB ** <br>
 - 👯 I’m looking to collaborate on Web Development Related Projects ** <br>
@@ -58,7 +53,7 @@ alt="XQuestCode" />
 
 
 <h4> Other Tools and Technologies </h4>
-<span>
+<span text-align: center>
 <img align="left" alt="heroku" width="26px" src="https://i.imgur.com/v9IRHGV.png" />
 <img align="left" alt="gcloud" width="26px"  src="https://i.imgur.com/qHpvfwl.png">
 <img align="left" alt="spotify" width="26px"  src="https://i.imgur.com/k2g1mS2.png">
