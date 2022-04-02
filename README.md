@@ -9,12 +9,8 @@
 - 🥅 2022 Goals: To be profficient in Object Oriented Programming :| <br>
 - ⚡ Fun fact: I love playing football, playing video games. <br>
 
-<p align="center">
-    <a href="https://github.com/XQuestCode/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya Parmar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XQuestCode&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<h5>
+## Skills </h5>
 
 <h4> Languages </h4>
 <span> 
