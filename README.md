@@ -89,6 +89,6 @@
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube" width="80"/> </button>
   </a>
     <a href="https://dsc.gg/primogem"> <button>
-        <img src="https://i.imgur.com/H62seUA.png" alt="Discord" width="80"/> </button>
+        <img src="https://i.imgur.com/H62seUA.png" alt="Discord" width="100"/> </button>
   </a>
 </p>
