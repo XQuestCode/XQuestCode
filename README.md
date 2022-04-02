@@ -65,11 +65,19 @@ alt="XQuestCode" />
 
 <h4> Games and fun </h4>
 <span>
-<img align="left" alt="valorant" width="26px" src="https://i.imgur.com/GFLGhGT.png" />
-<img align="left" alt="pubg" width="26px"  src="https://i.imgur.com/3RoZXse.jpg">
-<img align="left" alt="photoshop" width="26px"  src="https://i.imgur.com/YGoGk2U.png"><br />
+<img align="left" alt="valorant" width="26px" src="https://i.imgur.com/2bRyGNd.png" />
+<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 </span>
     
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<p align="center">
+<a href="https://www.instagram.com/geeky_aadi/">
+    <img src="https://i.imgur.com/TAeUEyJ.png" alt="Instagram" width="80"/>
+  </a>
+<a href="https://www.youtube.com/channel/UCQdiX8psFfls2wbwtOdhKLw">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube" width="80"/>
+  </a>
+</p>
