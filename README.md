@@ -7,7 +7,7 @@ alt="XQuestCode" />
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 - 🌱 I’m currently learning ** ReactJS, C# and MongoDB ** <br>
 - 👯 I’m looking to collaborate on Web Development Related Projects ** <br>
@@ -19,7 +19,7 @@ alt="XQuestCode" />
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya Parmar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XQuestCode&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-### Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
 <span> 
@@ -30,7 +30,7 @@ alt="XQuestCode" />
 <img align="left" alt="c++" width="26px" src="https://i.imgur.com/YMXeZ6b.png" /> <br />
 </span>
 
-<h4 align="center"> Frameworks </h4>
+<h4> Frameworks </h4>
 <span>
 
 <img align="left" alt="npm" width="26px" src="https://i.imgur.com/1v1hUT4.png" />
@@ -47,8 +47,8 @@ alt="XQuestCode" />
    <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> <br />
 </span>
 
-<h4> IDE </h4 align="center">
-<span align="center">
+<h4> IDE </h4>
+<span>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/SepzwEU.png" />
 <img align="left" alt="Repl.it" width="26px" src="https://i.imgur.com/3DqvI5F.png" />
@@ -72,8 +72,20 @@ alt="XQuestCode" />
 
 </span>
     
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=XQuestCode&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="XQuestCode" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XQuestCode&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="XQuestCode" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XQuestCode&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="XQuestCode" /></p>
 
 <p align="center">
 <a href="https://www.instagram.com/geeky_aadi/">
