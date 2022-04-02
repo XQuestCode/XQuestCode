@@ -8,6 +8,7 @@ alt="XQuestCode" />
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br>
 - 🌱 I’m currently learning ** ReactJS, C# and MongoDB **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🥅 2022 Goals: To be profficient in Object Oriented Programming :|
