@@ -30,7 +30,7 @@ alt="XQuestCode" />
 <img align="left" alt="c++" width="26px" src="https://i.imgur.com/YMXeZ6b.png" /> <br />
 </span>
 
-<h4> Frameworks </h4>
+<h4 align="center"> Frameworks </h4>
 <span>
 
 <img align="left" alt="npm" width="26px" src="https://i.imgur.com/1v1hUT4.png" />
@@ -47,8 +47,8 @@ alt="XQuestCode" />
    <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> <br />
 </span>
 
-<h4> IDE </h4>
-<span>
+<h4> IDE </h4 align="center">
+<span align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/SepzwEU.png" />
 <img align="left" alt="Repl.it" width="26px" src="https://i.imgur.com/3DqvI5F.png" />
