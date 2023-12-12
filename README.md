@@ -133,7 +133,7 @@
 <span>
   <a href="https://playvalorant.com/" target="_blank">
     <img align="left" alt="valorant" width="26px" src="https://i.imgur.com/2bRyGNd.png" />
-  </a>
+  </a> <br />
 </span>
     
 <h3>Statistical Data :-</h3>
