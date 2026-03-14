@@ -2,17 +2,30 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" alt="Coding Animation">
 
-- 🌱 I’m currently learning **Full Stack Development and Game Designing** <br>
-- 👯 I’m looking to collaborate on Web Development Related Projects ** <br>
-- 🥅 2024 Goals: To be profficient in Web Development and AI tools :| <br>
-- ⚡ Fun fact: I love playing football, playing video games. <br>
-- Contact me <a href="mailto:xquestcodes@gmail.com"> <button>
-    <img src="https://i.imgur.com/5b0bAC4.png" alt="Gmail" width="30"/> </button>
-  </a>
+</div>
 
-<h2>
+---
+
+## 🚀 About Me
+
+```typescript
+const aditya = {
+  location: "Melbourne, Australia 🇦🇺",
+  role: "Full Stack Developer & Digital Craftsman",
+  status: "Self-taught developer creating something funky",
+  interests: ["Web Development", "AI/ML", "Game Design", "IoT"],
+  currentFocus: "Building with cutting-edge technologies",
+  availableFor: "Freelance projects & collaborations"
+};
+```
+
+🌱 Currently exploring **AI-powered applications** and **modern web frameworks**  
+💼 Available for **freelance work** and **interesting collaborations**  
+⚡ Fun fact: When I'm not coding, you'll find me playing football or gaming
+
+---
 ## Skills </h2>
 
 <h4> Languages </h4>
@@ -124,11 +137,10 @@
     <img align="left" alt="Premiere Pro" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpAwUAzpUlfVtztLu6hFZFMa72SNcVkKLqJ4MY69B0fQ&s" />
   </a>
 
-  <a href="https://www.canva.com/" target="_blank">
-    <img align="left" alt="Canva" width="26px" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
-  </a><br />
-</span>
 
+  <br />
+</span>
+<br />
 <h4> Games and fun </h4>
 <span>
   <a href="https://playvalorant.com/" target="_blank">
